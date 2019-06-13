@@ -3,31 +3,32 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
+name: Duy Nguyen
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: duy@berkeley.edu
+website: dnguyenocc.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# linkedin_username: facespics
+github_username:  dnguyenocc
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: dnguyenocc
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Duy. I am a quick-learner, and a software developer with experience in Python, Java, Ruby on Rails, Data Structures and Algorithms. Strong engineering professional with a Bachelor's degree focused in Computer Science from University of California, Berkeley.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I enjoy solving complex problems and love working on a team and pair programming.
 
+  I am always looking for more opportunities to dive into new programming languages, technologies, or mathematical concepts.
 # Projects Section
 # projects_title: Projects
 
@@ -41,16 +42,15 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Soccer
+   - Hiking
+   - Snorkeling
 
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# remote_theme: sproogen/resume-themse
 
 sass:
   sass_dir: _sass
